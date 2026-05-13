@@ -43,6 +43,13 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 * Secured a unique application ID and published the project for internal testing on the Google Play Store as a verified developer.
 * **Tech:** `Android Development`, `Push Notifications`, `ProGuard`, `Google Play Console`
 
+### 5. [Local AI Transcription & Speaker Diarization CLI](https://github.com/meall/local-ai-transcriber)
+**Objective:** Engineered a privacy-first, fully local AI command-line tool to transcribe and diarize long-form audio without relying on cloud-based SaaS APIs.
+* Integrated state-of-the-art NLP models (WhisperX, Pyannote) to achieve high-accuracy phoneme alignment and multi-speaker separation.
+* Optimized the pipeline for local execution on standard hardware utilizing int8 quantization and managed critical system-level dependencies including FFmpeg.
+* Architected the tool for secure, long-term reuse by implementing Python's argparse for CLI functionality and python-dotenv for secure Hugging Face token management.
+* **Tech:** `Python`, `WhisperX`, `PyTorch`, `FFmpeg`, `CLI Architecture`, `Environment Security`
+
 ---
 
 ## 📁 Process & Documentation

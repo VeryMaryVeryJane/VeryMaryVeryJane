@@ -55,9 +55,11 @@ I believe that how a project is built is just as important as the final product.
 *Note: I am an AI-first developer. I rely heavily on AI copilots, LLMs, and agentic workflows to rapidly generate, debug, and deploy code. I pair this modern development workflow with formal IT and data science training to ensure I am architecting secure, compliant, and scalable enterprise solutions.*
 
 <p align="center">
-  <img src="./ibm_data_science.png" width="30%" alt="IBM Data Science" />
+  <img src="IBM_data_science.png" width="30%" alt="IBM Data Science" />
   <img src="comptia_a_plus_cert.png" width="30%" alt="CompTIA A+" />
-  <img src="./itil_foundation.png" width="30%" alt="Agile Scrum" />
+  <img src="agile_scrum.png" width="30%" alt="Agile Scrum" />
+  <img src="devOps_foundation.png" width="30%" alt="DevOps Foundation" />
+  <img src="IBM_claude_code_in_action.png" width="30%" alt="Claude Code in Action" />
 </p>
 
 

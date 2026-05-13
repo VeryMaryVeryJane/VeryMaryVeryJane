@@ -50,6 +50,17 @@ I believe that how a project is built is just as important as the final product.
 
 ---
 
+## 🏆 IT Frameworks & Certifications
+
+*Note: I am an AI-first developer. I rely heavily on AI copilots, LLMs, and agentic workflows to rapidly generate, debug, and deploy code. I pair this modern development workflow with formal IT and data science training to ensure I am architecting secure, compliant, and scalable enterprise solutions.*
+
+<p align="center">
+  <img src="./ibm_data_science.png" width="30%" alt="IBM Data Science" />
+  <img src="./wcci_data_analytics.png" width="30%" alt="We Can Code IT Data Analytics" />
+  <img src="./itil_foundation.png" width="30%" alt="ITIL Foundation" />
+</p>
+
+
 ## 📫 Let's Connect
 
 * **LinkedIn:** [https://www.linkedin.com/in/maryalleger/]

@@ -56,8 +56,8 @@ I believe that how a project is built is just as important as the final product.
 
 <p align="center">
   <img src="./ibm_data_science.png" width="30%" alt="IBM Data Science" />
-  <img src="./wcci_data_analytics.png" width="30%" alt="We Can Code IT Data Analytics" />
-  <img src="./itil_foundation.png" width="30%" alt="ITIL Foundation" />
+  <img src="comptia_a_plus_cert.png" width="30%" alt="CompTIA A+" />
+  <img src="./itil_foundation.png" width="30%" alt="Agile Scrum" />
 </p>
 
 

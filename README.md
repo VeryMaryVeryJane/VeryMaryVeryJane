@@ -25,7 +25,7 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 * Engineered a financial model applying cash lump-sum penalties and state/federal tax rates to determine true Expected Value.
 * **Tech:** `Python`, `pandas`, `requests`, `matplotlib`
 
-### 2. [The Tier-Hunter: Optimizing Prize Probabilities](https://github.com/VeryMaryVeryJane/tier-hunter)
+### 2. [The Tier-Hunter: Optimizing Prize Probabilities](https://github.com/VeryMaryVeryJane/prize_probabilities)
 **Objective:** Shifted from macro-level jackpot analysis to a micro-level optimization problem to find the mathematical "sweet spots" in state lotteries.
 * Isolated fixed prize tiers and engineered custom metrics (Return Multiplier and Tier Expected Value).
 * Designed a multi-dimensional, logarithmic Risk/Reward scatter plot to visually uncover structural inefficiencies in game design.
@@ -43,7 +43,7 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 * Secured a unique application ID and published the project for internal testing on the Google Play Store as a verified developer.
 * **Tech:** `Android Development`, `Push Notifications`, `ProGuard`, `Google Play Console`
 
-### 5. [Local AI Transcription & Speaker Diarization CLI](https://github.com/meall/local-ai-transcriber)
+### 5. [Local AI Transcription & Speaker Diarization CLI](https://github.com/VeryMaryVeryJane/local-ai-transcriber)
 **Objective:** Engineered a privacy-first, fully local AI command-line tool to transcribe and diarize long-form audio without relying on cloud-based SaaS APIs.
 * Integrated state-of-the-art NLP models (WhisperX, Pyannote) to achieve high-accuracy phoneme alignment and multi-speaker separation.
 * Optimized the pipeline for local execution on standard hardware utilizing int8 quantization and managed critical system-level dependencies including FFmpeg.

@@ -57,7 +57,7 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 * Executed ETL processes to extract and clean unstructured data from PDF research documents.
 * Engineered a complex relational data model using DAX to accurately link chemical compound profiles with their corresponding medical applications.
 * Designed an accessible UI/UX for non-technical end-users to make data-driven decisions safely and legally.
-**Tech:** Power BI, DAX, Power Query (ETL), Relational Data Modeling
+* **Tech:** Power BI, DAX, Power Query (ETL), Relational Data Modeling
 
 ---
 

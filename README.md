@@ -10,8 +10,8 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 
 ## 🛠️ My Technical Workflow & Stack
 
-* **Data Engineering & ETL:** `pandas`, `numpy`, Data Cleaning, API Interception
-* **Data Visualization:** `Looker Studio`, `matplotlib`, `seaborn`, Interactive Dashboards
+* **Data Engineering & ETL:** `pandas`, `numpy`, Data Cleaning, API Interception, My SQL
+* **Data Visualization:** `Looker Studio`, `matplotlib`, `seaborn`, PowerBI
 * **Software Development:** Android App Publishing, Push Notifications, ProGuard Debugging
 * **AI Collaboration:** Advanced Prompt Engineering, Automated Debugging, Architecture Prompting
 

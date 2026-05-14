@@ -50,6 +50,15 @@ I utilize advanced prompt engineering to accelerate code generation, allowing me
 * Architected the tool for secure, long-term reuse by implementing Python's argparse for CLI functionality and python-dotenv for secure Hugging Face token management.
 * **Tech:** `Python`, `WhisperX`, `PyTorch`, `FFmpeg`, `CLI Architecture`, `Environment Security`
 
+### 6. [Ohio's Digital Budtender](https://github.com/VeryMaryVeryJane/Compound-to-Ailment-Data-Model)
+**The Problem:** In highly regulated retail markets, state law strictly prohibits staff from providing medical advice, creating a massive operational bottleneck that leaves consumers guessing on product efficacy. 
+
+**The Data Solution:** I architected an interactive, self-service Power BI dashboard to bypass this bottleneck. 
+* Executed ETL processes to extract and clean unstructured data from PDF research documents.
+* Engineered a complex relational data model using DAX to accurately link chemical compound profiles with their corresponding medical applications.
+* Designed an accessible UI/UX for non-technical end-users to make data-driven decisions safely and legally.
+**Tech:** Power BI, DAX, Power Query (ETL), Relational Data Modeling
+
 ---
 
 ## 📁 Process & Documentation
